@@ -236,7 +236,7 @@
 #        '126': ['The IP version 4 addresses are:',
 #                'usually assigned on geographical and topological basis, in order to favor aggregetion']
 #        }
-TOKEN = "6608274528:AAH6l5iUMRX6pFmprNz7cxITnY_aWio8GkU"
+TOKEN = ""
 
 
 dic = {
